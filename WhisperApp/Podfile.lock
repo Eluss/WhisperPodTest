@@ -1,0 +1,13 @@
+PODS:
+  - PureLayout (3.0.1)
+  - Whisper (1.1.0)
+
+DEPENDENCIES:
+  - PureLayout
+  - Whisper
+
+SPEC CHECKSUMS:
+  PureLayout: f35f5384c9c4e4479df041dbe33ad7577b71ddfb
+  Whisper: 80f9eafa9d51dbc246f7c6aeb8aaa146a20cddce
+
+COCOAPODS: 0.39.0
